@@ -1,3 +1,3 @@
 # Rozdělení bodů
-Jmeno Prijemni 100
-Jmeno Prijemni 100
+Jakub Weich 100
+Radim Marek 0
